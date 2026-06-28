@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://your-image-link.com/welcome.png" alt="Welcome Banner](https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif" />
+</p>
 # Hi, I'm Rivka Sabo 👋
 
 ### Junior Full-Stack & AI Developer
